@@ -28,7 +28,6 @@
 <br />
 
 ## 🌱 Github stats
-
 ![woookk's GitHub stats](https://github-readme-stats.vercel.app/api?username=woookk&show_icons=true&theme=graywhite)
 
 ## 📌 solved.ac
