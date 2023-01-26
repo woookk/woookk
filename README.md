@@ -30,15 +30,10 @@
 ## 🌱 Github stats
 ![woookk's GitHub stats](https://github-readme-stats.vercel.app/api?username=woookk&show_icons=true&theme=graywhite&count_private=true)
 
-
-<p>
-  <a href="https://github.com/woookk">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woookk&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord&hide=true" />
-  </a>
-</p>
+![woookk's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=woookk&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=graywhite&hide=true)
 
 
-## 📌 solved.ac
+## ☘️ solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woook)](https://solved.ac/woook/)
 
 
