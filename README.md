@@ -32,3 +32,17 @@
 
 ## 📌 solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woook)](https://solved.ac/woook/)
+
+---
+
+<p>
+  <a href="https://github.com/woookk">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=woookk&hide=false&hide_title=false&show_icons=false&include_all_commits=true&theme=nord" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/eunaJung01">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woookk&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord&hide=true" />
+  </a>
+</p>
