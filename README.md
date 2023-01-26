@@ -28,11 +28,8 @@
 <br />
 
 ## 🌱 Github stats
-<p>
-  <a href="https://github.com/woookk">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=woookk&hide=false&hide_title=false&show_icons=false&include_all_commits=true&theme=graywhite" />
-  </a>
-</p>
+![woookk's GitHub stats](https://github-readme-stats.vercel.app/api?username=woookk&show_icons=true&theme=graywhite)
+
 
 <p>
   <a href="https://github.com/woookk">
