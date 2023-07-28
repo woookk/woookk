@@ -1,3 +1,9 @@
+<div align=right>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoookk%2Fhit-counter&count_bg=%233D53C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/woookk)
+
+</div>
+
 ## 💬 About me
 
 - 꾸준함의 가치를 아는
@@ -36,4 +42,4 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woook)](https://solved.ac/woook/)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoookk%2Fhit-counter&count_bg=%233D53C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
