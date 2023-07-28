@@ -16,7 +16,6 @@
 
 <div align=center>
   <h2>🛠 Skills</h2> 
-  ### Skills
 </div>
 
 <div align=center>
