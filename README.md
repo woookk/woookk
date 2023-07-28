@@ -4,14 +4,15 @@
 
 </div>
 
-## 💬 About me
+<h2 align = right> 🤚🏻 About me 🤚🏻 </h2>
 
+<div align = center>
 - 꾸준함의 가치를 아는
 - 선택과 코드의 이유를 생각하는 
 - 해보고 싶은 것은 작게라도 시도하는
 - 실패로부터 학습하는
 - 동료에게 열려있는
-
+</div>
 <br />
 
 <div align=center>
