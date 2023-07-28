@@ -15,11 +15,11 @@
 <br />
 
 <div align=center>
-## 🛠 Skills
+  <h2><🛠 Skills/h2> 
 </div>
 
 <div align=center>
-### Language
+<h3>Language</h3>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 
 ### Frontend
